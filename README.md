@@ -13,3 +13,8 @@ Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
 Authentication: JWT / Firebase / OAuth
 
 Deployment: Vercel / Netlify / Heroku / Render
+
+
+Drive:https://drive.google.com/file/d/1_u1LbYEjWpoLGiqwkY5f0fVBjC0IgM_s/view?usp=sharing
+
+Live Demo:https://drive.google.com/file/d/1PHv0mhEJwvWK6ECKdiqZ_vF7uDx7zEwn/view?usp=sharing
